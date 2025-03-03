@@ -203,5 +203,12 @@ fix_*.patch
 # Ignore .VSCode file
 *.vscode
 
-# Bỏ qua build files
-HeyFriends/android/build/
+# Bỏ qua thư mục build tạm thời của Android
+HeyFriends/android/app/build/
+
+# Bỏ qua tất cả thư mục Debug
+**/Debug/
+
+# Bỏ qua thư mục build của iOS (nếu có)
+HeyFriends/ios/build/
+
