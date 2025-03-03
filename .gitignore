@@ -197,3 +197,6 @@ fix_*.patch
 # Ignore all .cxx folders
 **/.cxx/
 
+# Ignore APK files
+*.apk
+
