@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.heyfriends.app-debug-29:/drawable_splash.png.flat",
+        "source": "com.heyfriends.app-main-31:/drawable/splash.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-hdpi_bootsplash_logo.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-hdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xhdpi_bootsplash_logo.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/drawable_bootsplash.xml.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/drawable/bootsplash.xml"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-mdpi_bootsplash_logo.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-mdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxxhdpi_bootsplash_logo.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/drawable_splash.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/drawable/splash.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxhdpi_bootsplash_logo.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-debug-29:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/khuongvo/.gradle/daemon/8.12/com.heyfriends.app-main-31:/mipmap-mdpi/ic_launcher_monochrome.png"
+    }
+]
