@@ -1,4 +1,0 @@
-/home/khuongvo/Android/Sdk/cmake/3.22.1/bin/ninja \
-  -C \
-  /home/khuongvo/Documents/Gits/HeyFriends/HeyFriends/android/app/.cxx/Debug/216d4fb4/x86 \
-  appmodules
