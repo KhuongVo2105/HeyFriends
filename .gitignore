@@ -200,3 +200,8 @@ fix_*.patch
 # Ignore APK files
 *.apk
 
+# Ignore .VSCode file
+*.vscode
+
+# Bỏ qua build files
+HeyFriends/android/build/
