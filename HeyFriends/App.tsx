@@ -11,8 +11,8 @@ import {
 } from 'react-native';
 
 import RNBootSplash from 'react-native-bootsplash';
-import SignIn from './src/SignIn';
 import "./global.css"
+import AuthLayout from './src/screens/auth/_layout';
 
 function App(): React.JSX.Element {
 
@@ -22,7 +22,7 @@ function App(): React.JSX.Element {
 
   return (
     <>
-      <SignIn />
+      <AuthLayout />
     </>
   );
 }
