@@ -1,0 +1,19 @@
+{
+    "welcome": "Welcome to React Native",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "no_account": "Don't have an account?",
+    "or": "Or",
+    "enter_phone_number": "Enter your phone number",
+    "invalid_phone_format": "Invalid phone number format",
+    "error": "An error occurred",
+    "ok": "Okay",
+    "notify": "Notification",
+    "feature_coming_soon": "This feature will be available in upcoming versions.",
+    "settings": "Settings",
+    "logout": "Logout",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "change_language": "Change Language",
+    "select_language": "Select Language"
+}

@@ -1,0 +1,19 @@
+{
+    "welcome": "Chào mừng đến với React Native",
+    "sign_in": "Đăng nhập",
+    "sign_up": "Đăng ký",
+    "no_account": "Bạn chưa có tài khoản?",
+    "or": "Hoặc",
+    "enter_phone_number": "Nhập số điện thoại",
+    "invalid_phone_format": "Số điện thoại không đúng định dạng",
+    "error": "Đã xảy ra lỗi",
+    "ok": "Đồng ý",
+    "notify": "Thông báo",
+    "feature_coming_soon": "Chức năng này sẽ được cập nhật vào các phiên bản tiếp theo.",
+    "settings": "Cài đặt",
+    "logout": "Đăng xuất",
+    "confirm": "Xác nhận",
+    "cancel": "Hủy bỏ",
+    "change_language": "Thay đổi ngôn ngữ",
+    "select_language": "Chọn ngôn ngữ"
+}

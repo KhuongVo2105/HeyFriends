@@ -1,0 +1,19 @@
+{
+    "welcome": "React Nativeへようこそ",
+    "sign_in": "サインイン",
+    "sign_up": "サインアップ",
+    "no_account": "アカウントをお持ちでないですか？",
+    "or": "または",
+    "enter_phone_number": "電話番号を入力してください",
+    "invalid_phone_format": "無効な電話番号形式です",
+    "error": "エラーが発生しました",
+    "ok": "OK",
+    "notify": "通知",
+    "feature_coming_soon": "この機能は今後のバージョンで利用可能になります。",
+    "settings": "設定",
+    "logout": "ログアウト",
+    "confirm": "確認",
+    "cancel": "キャンセル",
+    "change_language": "言語を変更",
+    "select_language": "言語を選択"
+}

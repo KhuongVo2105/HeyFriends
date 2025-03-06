@@ -11,12 +11,18 @@ import { DarkScheme } from './src/theme/darkScheme';
 
 const LightTheme = {
     ...MD3LightTheme,
-    color: LightScheme
+    colors: {
+        ...MD3LightTheme.colors,  // Giữ lại các thuộc tính mặc định
+        ...LightScheme.colors     // Ghi đè bằng các màu custom
+    }
 }
 
 const DarkTheme = {
     ...MD3DarkTheme,
-    color: DarkScheme
+    colors: {
+        ...MD3DarkTheme.colors,   // Giữ lại các thuộc tính mặc định
+        ...DarkScheme.colors      // Ghi đè bằng các màu custom
+    }
 }
 
 export default function Main() {
